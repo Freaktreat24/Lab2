@@ -7,7 +7,7 @@ public class number {
         int odd = 0;
 
         System.out.println("Enter 10 numbers:");
-        for (int i = 0; i < 10; i++) {
+        for (int i = 10; i>=1; i--) {
             int num = sc.nextInt();
             if (num % 2 == 0) {
                 even++;
