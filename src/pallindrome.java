@@ -1,6 +1,6 @@
 class palindrome {
     public static void main(String[] args) {
-        int num = 121;   // 👉 Mention the number here
+        int num = 121;
         int original = num;
         int reversed = 0;
 

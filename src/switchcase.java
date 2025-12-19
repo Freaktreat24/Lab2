@@ -1,7 +1,6 @@
 class WeekdayFinder {
     public static void main(String[] args) {
         int dayNo = 3;
-
         switch (dayNo) {
             case 1:
                 System.out.println("Sunday");
